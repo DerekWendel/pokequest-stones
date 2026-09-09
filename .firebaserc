@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "frontier-ace-094"
+  },
+  "targets": {
+    "frontier-ace-094": {
+      "hosting": {
+        "pokequest": [
+          "pokequeststones"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

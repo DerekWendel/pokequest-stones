@@ -1,0 +1,75 @@
+{
+  "pokemon": [
+    {
+      "id": "victreebel-99",
+      "pokedex_id": 71,
+      "nickname": "Venus",
+      "lvl": 100,
+      "stone_slots": [
+        {
+          "type": "ATK"
+        },
+        {
+          "type": "ATK"
+        },
+        {
+          "type": "ATK"
+        },
+        {
+          "type": "ATK"
+        },
+        {
+          "type": "ATK"
+        },
+        {
+          "type": "ATK"
+        },
+        {
+          "type": "HP"
+        },
+        {
+          "type": "HP"
+        },
+        {
+          "type": "MULTI"
+        }
+      ],
+      "equipped_stones": [
+        {
+          "id": "vic_stone_1",
+          "stone_type": "Mighty",
+          "power_value": 985,
+          "slot": 0,
+          "sub_stats": [
+            {
+              "name": "Hit Healing %",
+              "value": 28
+            },
+            {
+              "name": "Critical Hit Rate %",
+              "value": 250
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "power_stones": [
+    {
+      "id": "inventory_stone_1",
+      "type": "Sturdy",
+      "power": 920,
+      "sub_stats": [
+        {
+          "type": "STATUS_RESIST",
+          "value": 29.5
+        },
+        {
+          "type": "NATURAL_HEAL",
+          "value": 72
+        }
+      ],
+      "locked": true
+    }
+  ]
+}
